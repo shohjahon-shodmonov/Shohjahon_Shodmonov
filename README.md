@@ -67,13 +67,13 @@ I am interested in learning Mobile developing.
   </div>
 <p align="center">
 </a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/khamza-temirov-426156230" target="_blank">
+<a href="www.linkedin.com/in/shohjahon-shodmonov" target="_blank">
   <img align="center" alt="Khamza Temirov| Linkedin" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://emirsmorganson2000@gmail.com/" >
+<a href="https://sh.shodmonov1@gmail.com/" >
   <img align="center" alt="Temirov Khamza| Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://t.me/the_Temuriy">
+<a href="https://t.me/shohjahon_shodmonov">
     <img align="center" alt="Temirov H| Telegram" width="24px" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" />
 </a> &nbsp;&nbsp;
 <p>
